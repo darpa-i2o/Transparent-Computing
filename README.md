@@ -35,7 +35,7 @@ enforces security policies at key ingress/exit points, e.g., the firewall.
 
 The TC program web page can be found at [https://www.darpa.mil/program/transparent-computing](https://www.darpa.mil/program/transparent-computing)
 
-Due to its size, the material is hosted by Five Directions Inc. on their [Google Drive](https://https://drive.google.com/drive/folders/1okt4AYElyBohW4XiOBqmsvjwXsnUjLVf) 
+Due to its size, the material is hosted by Five Directions Inc. on their [Google Drive](https://drive.google.com/drive/folders/1okt4AYElyBohW4XiOBqmsvjwXsnUjLVf) 
 
 A description of the files contained in that directory is provided later on in this document.
 
